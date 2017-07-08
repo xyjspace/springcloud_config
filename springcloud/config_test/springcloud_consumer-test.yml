@@ -1,1 +1,4 @@
 from: spring_cloud-test.yml
+spring:
+  application:
+    name: springcloud_consumer2
